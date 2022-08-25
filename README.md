@@ -2,6 +2,6 @@
 ## Table of Contents 
 1. Introduction
 2. Analysis Process 
-a. Ask
+### 3. a. Ask
 b. Prepare
 c. Process
